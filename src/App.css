@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+:root {
+   --transition: all 0.3s linear;
+}
